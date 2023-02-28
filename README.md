@@ -22,7 +22,7 @@ This is the place where I opensource stuff and break things :rofl:
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a Android Developer with 3+ years of experience in developing enterprise applications and open-source software.
+I am a Android Developer with 4+ years of experience in developing enterprise applications and open-source software.
 
 </details> 
 
