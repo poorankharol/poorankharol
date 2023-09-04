@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Kotlin, Xamarin , Flutter
 - 💬 &nbsp;Ask me about anything related to Android
-- 📫 &nbsp;How to reach me: [@pooran_kharol](https://twitter.com/pooran_kharol)
+- 📫 &nbsp;How to reach me: [@pooran_kharol](https://twitter.com/pooranrkharol)
 - 👨‍💻 &nbsp;Read more about my projects at [poorankharol.com](https://www.poorankharol.com/#)
 
 🔗 &nbsp;**Connect with me**
@@ -22,7 +22,7 @@ This is the place where I opensource stuff and break things :rofl:
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a Android Developer with 4+ years of experience in developing enterprise applications and open-source software.
+I am an Android Developer with 4+ years of experience in developing enterprise applications and open-source software.
 
 </details> 
 
