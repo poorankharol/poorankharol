@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Kotlin, Xamarin, Flutter
 - 💬 &nbsp;Ask me about anything related to Android
-- 📫 &nbsp;How to reach me: [@pooran_kharol](https://twitter.com/pooranrkharol)
+- 📫 &nbsp;How to reach me: [@pooranrkharol](https://twitter.com/pooranrkharol)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
