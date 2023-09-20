@@ -16,7 +16,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=poorankharol)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=poorankharol&v=2)
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
